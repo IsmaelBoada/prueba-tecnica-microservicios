@@ -23,10 +23,10 @@ Cada microservicio se encuentra desarrollado y versionado en su propio repositor
 
 | Microservicio | Repositorio |
 |---|---|
-| Discovery Server | [RetoTecnicoTataDiscover](https://github.com/IsmaelBoada/RetoTecnicoTataDiscover) |
-| API Gateway | [RetoTecnicoTataGateway](https://github.com/IsmaelBoada/RetoTecnicoTataGateway) |
-| Cuentas y Movimientos | [RetoTecnicoTataCuentasService](https://github.com/IsmaelBoada/RetoTecnicoTataCuentasService) |
-| Clientes y Personas | [RetoTecnicoTataClienteService](https://github.com/IsmaelBoada/RetoTecnicoTataClienteService) |
+| Discovery Server | [RetoTecnicoDiscover](https://github.com/IsmaelBoada/RetoTecnicoTataDiscover) |
+| API Gateway | [RetoTecnicoGateway](https://github.com/IsmaelBoada/RetoTecnicoTataGateway) |
+| Cuentas y Movimientos | [RetoTecnicoCuentasService](https://github.com/IsmaelBoada/RetoTecnicoTataCuentasService) |
+| Clientes y Personas | [RetoTecnicoClienteService](https://github.com/IsmaelBoada/RetoTecnicoTataClienteService) |
 
 ## Entrega de la solución
 
